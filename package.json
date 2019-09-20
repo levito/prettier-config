@@ -1,0 +1,19 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "AIDA prettier configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AIDACruises/prettier-config.git"
+  },
+  "author": "Digital Business Development <dev@aida.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AIDACruises/prettier-config/issues"
+  },
+  "homepage": "https://github.com/AIDACruises/prettier-config#readme"
+}
